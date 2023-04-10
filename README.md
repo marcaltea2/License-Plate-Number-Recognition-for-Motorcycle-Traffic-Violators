@@ -11,13 +11,14 @@ Flask
 MySQL
 
 # Installation
-Clone the repository: git clone https://github.com/username/repo.git
-Install dependencies: pip install -r requirements.txt
-Set up the database: mysql -u root -p < database.sql
+1.Clone the repository: git clone https://github.com/username/repo.git
+2. Install dependencies: pip install -r requirements.txt
+3. Set up the database: mysql -u root -p < database.sql
+
 # Usage
-Run the program: python main.py
-Open the website: http://localhost:5000/
-Monitor the live feeds and data on the admin page
+1. Run the program: python main.py
+2. Open the website: http://localhost:5000/
+3. Monitor the live feeds and data on the admin page
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
