@@ -4,11 +4,11 @@
 This program is designed to detect motorcycles that violate traffic laws, such as not wearing a helmet or having multiple passengers. It uses Python and OpenCV for license plate recognition, and stores the data in a database.
 
 # Requirements
-Python 3.x
-OpenCV
-NumPy
-Flask
-MySQL
+* Python 3.x
+* OpenCV
+* NumPy
+* Flask
+* MySQL
 
 # Installation
 1. Clone the repository: git clone https://github.com/username/repo.git
