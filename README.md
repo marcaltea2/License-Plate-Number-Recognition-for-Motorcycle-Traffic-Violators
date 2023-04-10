@@ -11,7 +11,7 @@ Flask
 MySQL
 
 # Installation
-1.Clone the repository: git clone https://github.com/username/repo.git
+1. Clone the repository: git clone https://github.com/username/repo.git
 2. Install dependencies: pip install -r requirements.txt
 3. Set up the database: mysql -u root -p < database.sql
 
